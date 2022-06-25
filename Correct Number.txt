@@ -1,0 +1,2 @@
+The number to be guessed was
+66

@@ -1,0 +1,29 @@
+The number to be gussed is decided....:):)
+Now you can start guessing
+Hey!! Before guessing go through the rules.The rules are the following.
+You have got 7 chances to guess the right number. You will be frequently notified that how close you are to the right number after each guess.
+If you were successful in guessing the number before you run out of chances you win the game:) else you lose:(
+Now start guessing
+First try: 67
+You are very near!!
+You have 6 chances left
+Second try: 70
+You are very near!!
+You have 5 chances left
+Third try: 75
+You are very near!!
+You have 4 chances left
+Fourth try: 83
+The difference is too high!!
+You have 3 chances left
+Fifth try: 72
+You are very near!!
+You have 2 chances left
+Sixth try: 74
+You are very near!!
+You have 1 chances left
+Seventh try: 73
+You are very near!!
+You have 0 chances left
+You have lost!! Better luck next time
+The correct number was 66
